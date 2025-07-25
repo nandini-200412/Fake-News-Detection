@@ -43,6 +43,6 @@ streamlit run app.py
 The model achieved high accuracy during testing, making it reliable for basic fake news classification tasks.
 
 🙋‍♀️ Author
-Sharadha Kattalingannagari
-📧 sharadhakattalingannagari@gmail.com
-🔗 LinkedIn : https://www.linkedin.com/in/sharadha-kattalingannagari-992a4730a
+Shiva Nandini Tuppada 
+📧 nandinituppada12@gmail.com
+🔗 LinkedIn : https://www.linkedin.com/in/nandini-tuppada-240ab1259/
