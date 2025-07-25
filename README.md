@@ -35,7 +35,7 @@ With the rise of misinformation, identifying fake news has become a crucial task
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/sharadha-k19/Fake-News-Detection
+   git clone https://github.com/nandini-200412/Fake-News-Detection
    cd Fake-News-Detection
 pip install -r requirements.txt
 streamlit run app.py
